@@ -1,0 +1,9 @@
+# Fichiers Java compilés
+*.class
+
+# Dossiers de compilation
+bin/
+out/
+
+# Fichiers temporaires
+*.log
